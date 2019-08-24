@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AAC_by_byounggoo</string>
+    <string name="ConncetAPI">Get Image From Unsplash</string>
+    <string name="unsplash_access_key">5ee30dd4817c49516e68b224a5d93e9116d3b12f22cc66a2d2e0d930c705f561</string>
+    <string name="unsplash_secrey_key">9499584292a16b129d40f8cf8c7d2dc10a67fcd82bebed29c6549c84a00e0467</string>
+</resources>
